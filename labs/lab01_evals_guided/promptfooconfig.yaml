@@ -37,7 +37,7 @@ defaultTest:
 
         USER_QUESTION: {{item.input}}
 
-        Scoring rubric (1 to 5):
+        Scoring rubric (1 to 7):
         1 - Not aligned or incorrect.
         2 - Poor alignment; largely incomplete or off-topic.
         3 - Partial alignment; addresses main point with notable gaps.
@@ -62,7 +62,7 @@ defaultTest:
 
         CUSTOMER_QUESTION: {{item.input}}
 
-        Scoring rubric (1 to 2):
+        Scoring rubric (1 to 3):
         3 - Perfect: The answer is direct, complete, and only addresses the
             question.
         2 - Some deviation: The answer mostly addresses the question but
